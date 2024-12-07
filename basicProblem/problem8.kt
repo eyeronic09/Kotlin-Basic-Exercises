@@ -1,3 +1,4 @@
+//Write a Kotlin program to find the factorial of a given number.
 fun main() {
     println("enter the number to find factorial ")
     val num = readln().toIntOrNull()
