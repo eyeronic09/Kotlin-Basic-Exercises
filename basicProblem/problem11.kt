@@ -1,3 +1,5 @@
+
+//Write a Kotlin program to convert temperature from Celsius to Fahrenheit and vice versa.
 fun celsiusToFahrenheit(c: Double) : Double{
     return (c  * 9 / 5) + 32
 }
@@ -24,7 +26,7 @@ fun main() {
                 println("Temperature in Celsius: $temperature")
                 println("Temperature in Fahrenheit: $celsius")
             }
-    }
+        }
     }else{
         println("invalid option ")
     }
