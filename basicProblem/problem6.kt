@@ -10,4 +10,5 @@ fun main() {
     }
 } else{ println("No input provided. Please provide a number as a command-line argument.")
     }
+
 }
