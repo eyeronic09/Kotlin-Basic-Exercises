@@ -1,5 +1,6 @@
 fun main()
 {
+    println("please enter the number")
     val number = readln().toIntOrNull()
     println("Number is $number")
     if (number != null) {
